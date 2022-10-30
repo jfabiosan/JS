@@ -1,4 +1,4 @@
-var nome = caneta
+var nome = "caneta"
 var quantidade = 10
 var preco = 6.4
 var imposto = 1.5
