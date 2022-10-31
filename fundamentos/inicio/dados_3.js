@@ -8,3 +8,4 @@ linguagens que considera double */
 
 let salario = 31.570
 console.log(typeof salario);
+
