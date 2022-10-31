@@ -9,3 +9,5 @@ linguagens que considera double */
 let salario = 31.570
 console.log(typeof salario);
 
+let estaChovendo = true;
+console.log(typeof estaChovendo);
