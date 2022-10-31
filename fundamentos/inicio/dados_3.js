@@ -11,3 +11,9 @@ console.log(typeof salario);
 
 let estaChovendo = true;
 console.log(typeof estaChovendo);
+
+console.log(typeof "texto");
+
+//numero entre aspas considera texto (String)
+console.log(typeof "31");
+console.log(typeof 31);
