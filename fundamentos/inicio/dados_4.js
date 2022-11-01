@@ -1,5 +1,5 @@
-let a = 10;
+const a = 10;
 
-a = 25
+// a = 25
 
 console.log(a+30);
