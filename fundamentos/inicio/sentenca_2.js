@@ -1,5 +1,5 @@
 console.log("exibir String com aspas duplas")
-console.log('exibir String com aspas simples duplas')
+console.log('exibir String com aspas simples')
 console.log(1 +1)
 console.log("imperativa passo 1")
 console.log("imperativa passo 2")
