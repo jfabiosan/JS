@@ -9,3 +9,7 @@ a=b;
 b=x
 console.log("valor de a é "+a);
 console.log("valor de b é "+b);
+
+[a, b] = [b, a];
+console.log("valor de a é "+a);
+console.log("valor de b é "+b);
