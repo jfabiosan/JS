@@ -15,3 +15,6 @@ console.log(a > b);
 console.log(a < b);
 console.log(a >= b);
 console.log(a <= b);
+
+console.log("teste");
+console.log(4>=3);
