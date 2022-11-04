@@ -5,8 +5,8 @@ console.log(8 <= 12);
 console.log(9 == 3);
 console.log(9 != 5);
 
+console.log("usando variaveis");
 
-console.log("usando variaveis")
 let a = 32
 let b = 7
 console.log(a != b);
