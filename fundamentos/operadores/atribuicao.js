@@ -14,7 +14,7 @@ y %= 2;  //y = y % 20
 console.log(y);
 
 let w = "Meu";
-w += " texto"
-w += " aqui."
+w += " texto";
+w += " aqui.";
 
 console.log(w);
