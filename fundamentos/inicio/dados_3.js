@@ -1,3 +1,4 @@
+//typeof retorna qual o tipo do valor informado. number | boolean | String
 let idade = 31;
 
 console.log(typeof 31);
