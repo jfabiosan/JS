@@ -3,7 +3,7 @@ let temDinheiro = true;
 let estaEnsolarado = true;
 //para ser verdadeiro os dois precisam ser verdadeiros pois só com dinheiro e com sol pra sair ao shopping
 let resultadoAND = temDinheiro && estaEnsolarado;
-console.log("Vai para o shopping? ="+ resultadoAND);
+console.log("Vai para o shopping? "+ resultadoAND);
 
 
 //Operador Logico OR (||)
@@ -12,7 +12,7 @@ let saldoCredito = true;
 /*para ser verdadeiro somente um ou os dois precisam ser verdadeiros pois so com saldo em alguma modalidade
 para comprar */
 let resultadoOR = saldoDebito || saldoCredito;
-console.log("Vou comprar no mercado? =" +resultadoOR);
+console.log("Vou comprar no mercado? " +resultadoOR);
 
 //Operador Logico XOR (^)bit a bit (!=) booleano exemplo:
 console.log("XOR " +(true ^ false));
