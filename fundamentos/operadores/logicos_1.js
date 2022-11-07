@@ -1,3 +1,4 @@
+//Operador Logico AND (&&)
 let temDinheiro = false;
 let estaEnsolarado = true;
 
