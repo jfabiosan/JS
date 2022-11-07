@@ -18,8 +18,12 @@ console.log("Vou comprar no mercado? =" +resultadoOR);
 console.log("XOR " +(true ^ false));
 console.log("XOR " +(true != false));
 
-let carro = true;
+let carro = false;
 let moto = true;
 //para ser verdadeiro somente um pode ser verdadeiros pois nao consegue pilotar os dois ao mesmo tempo.
 let resultadoXOR = carro != moto;
-console.log("XOR Vou sair em um veiculo? " +resultadoXOR);
+console.log("XOR Consigo pilotar? " +resultadoXOR);
+
+//Operador Logico NOT
+console.log(!true);
+console.log(!false);
