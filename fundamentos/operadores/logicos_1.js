@@ -20,7 +20,7 @@ console.log("XOR " +(true != false));
 
 let carro = false;
 let moto = true;
-//para ser verdadeiro somente um pode ser verdadeiros pois nao consegue pilotar os dois ao mesmo tempo.
+//para ser verdadeiro somente um pode ser verdadeiro pois nao consegue pilotar os dois ao mesmo tempo.
 let resultadoXOR = carro != moto;
 console.log("XOR Consigo pilotar? " +resultadoXOR);
 
