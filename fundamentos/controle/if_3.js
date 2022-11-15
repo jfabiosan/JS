@@ -1,4 +1,4 @@
-const nota = 8;
+const nota = 2;
 
 if (nota >= 6) {
     console.log("Parabens!")
