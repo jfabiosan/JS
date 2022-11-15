@@ -1,2 +1,2 @@
-if(true)
-console.log('vai ser executado');
+if (true)
+    console.log('vai ser executado');
