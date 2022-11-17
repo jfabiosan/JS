@@ -15,8 +15,8 @@ let resultadoOR = saldoDebito || saldoCredito;
 console.log("\nOR Vou comprar no mercado? " +resultadoOR);
 
 //Operador Logico XOR (^)bit a bit (!=) booleano exemplo:
-console.log("\nXOR " +(true ^ false));
-console.log("XOR " +(true != false));
+console.log("\nXOR " +(true ^ true));
+console.log("XOR " +(true != true));
 
 let carro = false;
 let moto = true;

@@ -7,14 +7,12 @@ if (hora < 12){
 } else{
     if (hora < 18){
         saudacao = 'Boa tarde';
-    } else{
-        if (hora >= 18 && hora <= 23.59){
+    } else if (hora >= 18 && hora <= 23.59){
         saudacao = 'Boa noite';
         } else{
             saudacao = "Hora Inválida!"
 
         }
     }
-}
 
 console.log(saudacao);
