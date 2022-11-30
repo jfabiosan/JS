@@ -1,7 +1,7 @@
 let quantidade = 0;
 
-while (Math.random() < 0.9) {
+while (Math.random() < 0.8) {
     quantidade ++;
-    console.log(quantidade);
-
+    
 }
+console.log("qtd " + quantidade);
