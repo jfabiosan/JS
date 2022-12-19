@@ -2,8 +2,8 @@
 
     comandos
 } */
-for (let controle = 1; controle <=10; controle +=2){
+for (let i = 1; i <10; i ++){
 
-    console.log(controle);
+    console.log(i);
 }
 console.log("FIM!");
