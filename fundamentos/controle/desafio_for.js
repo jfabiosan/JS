@@ -8,7 +8,7 @@ for(i=1; i<=6; i++){
 }
 */
 
-//usando valores booleanos
+//usando string para controlar o laço
 
 for ( s = "#"; s!= "#######"; s += "#"){
     console.log(s);
