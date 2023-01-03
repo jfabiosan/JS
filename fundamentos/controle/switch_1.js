@@ -1,4 +1,4 @@
-let nota = 7.7;
+let nota = 4.1;
 
 switch (Math.ceil(nota)){
     case 10:
@@ -18,4 +18,5 @@ switch (Math.ceil(nota)){
     default:
         console.log("Nota invalida");
 }
-console.log("FIM!")
+console.log("Media do Aluno!");
+console.log(Math.ceil(nota));
