@@ -7,15 +7,17 @@ function exibirData1() {
   
 }
 
-
 const d2 = 24; 
 const m2 = 12;
 const a2 = 2022;
 
 function exibirData2() {
-console.log(`Dia: ${d2}`);
-console.log(`Mes: ${m2}`);
-console.log(`Ano: ${a2}`);
+    console.log(`${d2}/${m2}/${a2}`);
 }
-exibirData1()
-exibirData2()
+
+function exibirData (d, m ,a){
+    console.log(`${d}/${m}/${a}`);
+}
+exibirData1();
+exibirData2();
+exibirData(d1, m1, a1);
