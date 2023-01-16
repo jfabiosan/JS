@@ -1,15 +1,14 @@
-const num1 = 3
-const num2 = 4
-
 function soma(n1, n2){
     console.log(n1 + n2);
 }
-soma(num1, num2);
+soma(3, 4);
+soma(3, 8);
+soma(5, 9);
+soma(-5, 4);
 
-const num3 = 8
-const num4 = 6
-
-function subtracao(n3, n4){
-    console.log(n3 - n4);
+function subtrair(n1, n2){
+    console.log(n1 - n2);
 }
-subtracao(num3, num4);
+subtrair(23, 11);
+subtrair(8, 6);
+subtrair(5, 11);
