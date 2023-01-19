@@ -2,12 +2,8 @@ function sempreRetornaUm(){
     return 1;
 }
 
-function textoOuNumero(n){
-    if (n) {
-        return "sou um texto";
-    } else{
-        return 123;
-    }
+function textoOuNumero(retornaTexto){
+   return retornaTexto ? "souTexto" : 123;
 }
 
 let valor = sempreRetornaUm() + 999;
