@@ -2,8 +2,8 @@ function sempreRetornaUm(){
     return 1;
 }
 
-function textoOuNumero(retornaTexto){
-    if (retornaTexto) {
+function textoOuNumero(n){
+    if (n) {
         return "sou um texto";
     } else{
         return 123;
