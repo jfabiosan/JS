@@ -30,7 +30,7 @@ switch (conceito){
         console.log("0");
     break;
     default:
-        console.log("Conceito informado inválido")
+        console.log("Conceito informado inválido");
 }
 
 
