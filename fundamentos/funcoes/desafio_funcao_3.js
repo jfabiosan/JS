@@ -1,12 +1,11 @@
-//aprovado
-//reprovado
-//recuperacao
+/*3 funcoes para criar algoiritmo se aluino esta arpovado reprovado ou recuperacao
+ usando as 2 maiores notas*/
 
-//calcula media com duas notas maiores e descarta a menor
+//1#verifica qual menor valor para descartar
 
-//>=7 aprovado
-//>= 4 & < 7 recuperacao
-//<4 reprovado
+//2#calcular a media
+
+//3#verificar com a media se foi aprovado reprovado ou recuperacao
 
 const note1 = 2.8;
 const note2 = 3.1;
