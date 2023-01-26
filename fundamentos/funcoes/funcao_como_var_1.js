@@ -5,3 +5,8 @@ let somar = function (a, b){
     return a + b;
 }
  console.log(somar(x, y));
+
+let divisao = function (a, b){
+    return a % b;
+}
+console.log(divisao(x, y));
