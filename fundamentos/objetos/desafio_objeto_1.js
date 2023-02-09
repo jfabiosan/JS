@@ -8,3 +8,4 @@ const nascimento = {
 };
 
 console.log(nascimento.exibirData());
+console.log(nascimento.mes);
