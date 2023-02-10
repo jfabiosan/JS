@@ -1,3 +1,5 @@
+//repeticao de codigo
+
 const d1 = {
     dia: 01,
     mes: 7,
